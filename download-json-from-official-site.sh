@@ -1,4 +1,6 @@
 #!/bin/bash -u
+# Download the json file with the same name as the xml file from the official website.
+#
 # Usage:
 # Move to xml dir, and run this script.
 mkdir -p success

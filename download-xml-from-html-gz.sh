@@ -3,7 +3,7 @@
 #
 # Usage:
 # 1. Obtain scc*.html.gz from official site.
-#    (Run download-html-gz.sh, or download archive from official site if old mjlogs.)
+#    (Run download-html-gz-from-official-site.sh, or download archives from official site if old mjlogs.)
 # 2. Run this script same folder.
 #
 # Note:
